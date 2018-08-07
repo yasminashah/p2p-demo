@@ -3,6 +3,6 @@
 Markdown is better than html 
 
 
-##Rproj
+## Rproj
 
-We can use relative paths (".data/here.csv") vs absolute paths 
+Caipirinha <3 
